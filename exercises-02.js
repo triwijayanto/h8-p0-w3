@@ -1,11 +1,9 @@
-// balik string
-
-var kata = 'hello world!'
-var balik = ''
-
-//console.log(kata.length)
-for (var i = kata.length-1 ; i >= 0; i--){
-  balik += kata[i]
+function balikString(kata){
+  var balik = ''
+  for (var i = kata.length-1 ; i >= 0; i--){
+    balik += kata[i]
+  }
+  return balik
 }
 
-console.log(balik)
+console.log(balikString('hello world!'))
