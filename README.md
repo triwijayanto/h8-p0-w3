@@ -1,4 +1,4 @@
-# HACKTIV8 PHASE 0 WEEK 3
+# [Exercises] HACKTIV8 PHASE 0 WEEK 3 
 
 ##### [Exercises 1] JavaScript Building Blocks: Codecademy JavaScript Course (Unit 4 - Arrays)
 ##### [Exercises 2] Tantangan Array 1 (Mengakses Nilai dalam Array)
